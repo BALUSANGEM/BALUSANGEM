@@ -11,7 +11,8 @@
 * [Playing Video in ARCore using OpengGL](https://medium.com/nosort/playing-video-in-arcore-using-openggl-a81ff62f7a6d)
 * [Adding views on top of UnityPlayer in UnityPlayerActivity](https://medium.com/nosort/adding-views-on-top-of-unityplayer-in-unityplayeractivity-e76240799c82)
 
-
+#### Public Speaking
+* [Presented](https://speakerdeck.com/balusangem/introduction-to-motionlayout) Introduction to MotionLayout and organized a codelab at [GDG Devfest 2018](https://sessionize.com/devfesthyd18/)
 #### Social Media
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sbkcse/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sbkurs)
