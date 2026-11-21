@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Android and Kotlin
-- 🌱 I’m currently learning/mastering TDD, Android and cleaning Legacy code
-- 👯 I’m looking to collaborate on any Android Project
-- 💬 Ask me about Android, TDD and Legacy code
+- 🔭 I’m an Experienced Mobile Engineer, with experience in full stack web applicatoins
+- 🌱 I’m currently exploring the ways to utilize the Agentic driven workflows for development
+- 👯 I’m looking to collaborate on any Mobile Project
+- 💬 Ask me about Mobile Engineering, Android, TDD and Legacy code
 
 #### Writings
 * [Exploring ImageDecoder](https://medium.com/nosort/a-class-for-converting-encoded-images-like-png-jpeg-webp-gif-or-heif-into-drawable-or-6a7219319abc)
